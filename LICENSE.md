@@ -6,7 +6,7 @@
 
 Welcome to the official repository of Redz Hub, a premier scripting utility designed to optimize your gaming experience on Roblox. Engineered for both mobile devices (Android) and desktop environments (Windows), this utility provides a centralized environment to execute, manage, and configure custom Luau scripts securely and efficiently.
 
-[![Download Now](https://img.shields.io/badge/Download-Redz_Hub-Script-brightgreen?style=for-the-badge)](https://redzubh.github.io/redz/)
+[![Download Now](https://img.shields.io/badge/Download-Redz_Hub_Script-brightgreen?style=for-the-badge)](https://redzubh.github.io/redz/)
 
 <img width="1280" height="720" alt="Redz Hub Script - Best Roblox Script Hub 2026" src="https://github.com/user-attachments/assets/daae09b2-3282-4b83-b8bd-5a707b3c9c40" />
 
